@@ -1,0 +1,40 @@
+body {
+ background: url(https://static.tumblr.com/323fadddf33c23a1d2935c6846b89601/ukmldcn/3MNn8x49f/tumblr_static_tumblr_static_e5p9k6of7n4s0488g0w4gcg8o_640.jpg);
+ background-repeat: repeat;
+ text-align: center;
+ font-size: 20px;
+}
+
+#purple {
+ background: blue;
+ color: blue;
+}
+
+#blue {
+ background: blue;
+ color: blue;
+}
+
+#lightblue {
+ background: blue;
+ color: blue;
+}
+
+#lightgreen {
+ background: blue;
+ color: blue;
+}
+
+#pink {
+ background: blue;
+ color: blue;
+}
+
+td {
+ width: 100px;
+ height: 100px;
+}
+
+a:link {
+ background-color: white;
+}

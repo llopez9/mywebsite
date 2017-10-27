@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px
+}
+
+#purple {
+    text-decoration: blink;
+    background: #8C46DF;
+    color: #8C46DF;
+}
+
+#blue {
+    background: #2048BF;
+    color: #2048BF;
+}
+
+#lightblue {
+    background: #0094D3;
+    color: #0094D3;
+}
+
+#lightgreen {
+    background: #47A311;
+    color: #47A311;
+}
+
+#pink {
+    background: #DD6AC2;
+    color: #DD6AC2;
+}
+
+td {
+    width: 200px;
+    height: 400px;
+}
+
+table {
+    text-align: center
+}

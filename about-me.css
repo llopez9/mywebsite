@@ -1,0 +1,21 @@
+ body {
+  background: url(https://mattsko.files.wordpress.com/2014/06/flower-rays.jpg?w=560);
+  text-align: center;
+ }
+
+ h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+ }
+
+ h3 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+ }
+
+ a:link {
+  background-color: white;
+ }
+ 
